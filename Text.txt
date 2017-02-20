@@ -2,3 +2,4 @@ Shiritori
 ringo
 gorira
 rabbit
+tororo
